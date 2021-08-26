@@ -1,4 +1,4 @@
-inputName = InputBox("input format")
+inputName = InputBox("input format Math-ko5toF")
 outName = InputBox("out format")
 
 Set WshShell = CreateObject("WScript.Shell")
